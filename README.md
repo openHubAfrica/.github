@@ -1,3 +1,5 @@
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ## About openHubAfrica
 
 Open Hub Africa (oHa) is a collection products being developed by many African developers across the globe for use by Africans. We believe African communities and businesses like schools, SMEs etc. should be able to make use of technology locally for personal developments, businesss growth, teaching and learning in classrooms etc. without stress and litle or zero cost.
