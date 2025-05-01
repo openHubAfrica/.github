@@ -1,4 +1,4 @@
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title"](https://www.canva.com/design/DAGmLlNpwG0/DiUFPl9k8PPVK1FytsV_7Q/view?utm_content=DAGmLlNpwG0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h466222c4ad)
+![Alt text](https://www.canva.com/design/DAGmLlNpwG0/DiUFPl9k8PPVK1FytsV_7Q/view?utm_content=DAGmLlNpwG0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h466222c4ad)
 
 ## About openHubAfrica
 
