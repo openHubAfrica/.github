@@ -12,4 +12,7 @@ openHubAfrica takes the pain out of the above by creating products that fullfil 
 - Encourage, spread and initiate the use of technology in schools and educational houses in Africa.
 - Create more repositories that solve practical problems in African society.
 - Invite more collaborators across the globe to help improve repositories.
-  
+
+  ## Sponsorship & Supports
+
+  There are lots of organizations in Africa that are making use of openHubAfrica products due to its free and easy to access features. Many of them (who can afford) bare the cost of setups on their own while many who cannot afford had financial supports from individuals and private bodies who help purchase gadgets like router, wifi extender, solar power system etc.
