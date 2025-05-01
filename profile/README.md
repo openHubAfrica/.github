@@ -1,4 +1,4 @@
-![oHa Logo](https://www.canva.com/design/DAGmLlNpwG0/L4K0FLkA1yXV0h-bf3Oa5A/view)
+![oHa Logo](https://drive.google.com/file/d/1xhrQuofd53fY96kGm3K4gReLGsWfU179/view?usp=sharing)
 
 ## About openHubAfrica
 
