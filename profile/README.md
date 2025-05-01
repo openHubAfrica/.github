@@ -1,12 +1,15 @@
-## Hi there 👋
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
-<!--
+## About openHubAfrica
 
-**Here are some ideas to get you started:**
+Open Hub Africa (oHa) is a collection products being developed by many African developers across the globe for use by Africans. We believe African communities and businesses like schools, SMEs etc. should be able to make use of technology locally for personal developments, businesss growth, teaching and learning in classrooms etc. without stress and litle or zero cost.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+openHubAfrica takes the pain out of the above by creating products that fullfil the daily needs of communities like schools, religious houses, community associations, and SMEs. These products are contributions of black developers across the globe to help spread and improve tech. use in Africa.
+
+## Our Goals
+
+- Make technology free and easily accessible in Africa.
+- Spread the use technology in schools and educational houses in Africa.
+- Create more repositories that solve practical problems in African society.
+- Invite more collaborators across the globe to help improve repositories.
+  
